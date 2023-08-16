@@ -9,6 +9,6 @@ window.title("water")
 tag = Label(window,text="water")
 tag.pack()
 
-button=Button(window,text="send")
+button=Button(window,text="Submit")
 button.pack()
 window.mainloop()
