@@ -12,3 +12,4 @@ window.mainloop()
 
 # i have changed nothing
 
+HORIZONTAL
